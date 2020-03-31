@@ -1,10 +1,4 @@
 # Synbolg.github.io
-<!DOCTYPE html>
-<style>
+<h1>
    
-</style>
-<html>
-
-
-
-</html>
+</h1>
