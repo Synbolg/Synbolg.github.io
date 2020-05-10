@@ -1,0 +1,11 @@
+{
+　"short_name": "My Personal Page",
+　"name": "My Personal Page",
+　"icons": [{
+　　"src":"icons/192.png",
+　　"sizes": "192×192",
+　　"type": "image/png"
+　　}],
+　"start_url": "http://127.0.0.1:8887/",　
+　"display": "standalone"
+}
