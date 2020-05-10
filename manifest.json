@@ -1,11 +1,11 @@
 {
-　"short_name": "My Personal Page",
-　"name": "My Personal Page",
-　"icons": [{
-　　"src":"wang-icon.jpg",
-　　"sizes": "170×166",
-　　"type": "image/jpg"
-　　}],
-　"start_url": "http://127.0.0.1:8887/",　
-　"display": "standalone"
+  "short_name": "My Personal Page",
+  "name": "My Personal Page",
+  "icons": [{
+    "src":"wang-icon.jpg",
+    "sizes": "170×166",
+    "type": "image/jpg"
+  }],
+  "start_url": "http://127.0.0.1:8887/",
+  "display": "standalone"
 }
