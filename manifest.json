@@ -2,12 +2,13 @@
   "short_name": "My Personal Page",
   "name": "My Personal Page",
   "icons": [{
-    "src":"wang-icon.jpg",
-    "sizes": "170×166",
-    "type": "image/jpg"
+    "src":"icon/maskable_icon.png",
+    "sizes": "196x196",
+    "type": "image/png",
+    "purpose":"any maskable",
   }],
   "start_url": "http://127.0.0.1:8887/",
   "background_color": "#000",
   "theme_color": "#536878",
-  "display": "standalone"
+  "display": "standalone",
 }
