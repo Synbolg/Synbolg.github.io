@@ -1,7 +1,7 @@
 {
   "name": "My Personal Page",
   "short_name": "My Personal Page",
-  "start_url": "http://127.0.0.1:8887/",
+  "start_url": "https://synbolg.github.io/",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#fff",
